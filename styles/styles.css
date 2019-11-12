@@ -1,0 +1,18 @@
+.key {
+    padding: 1rem;
+    background: red;
+    width: 10%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.animatedFun {
+    opacity: 1;
+    transition: opacity .75s ease-in;
+}
+
+.hide {
+    opacity: 0;
+}
+
+
